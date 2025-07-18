@@ -3922,6 +3922,8 @@ cc_prebuilt_binary {
                 "liblog",
                 "libcutils",
                 "libhardware_legacy",
+                "libutils",
+                "libsensorndkbridge",
                 "libc++",
                 "libc",
                 "libm",
