@@ -3263,6 +3263,7 @@ PRODUCT_PACKAGES += \
     com.qti.chi.override \
     libAncFaceDetect \
     libRbsFlow \
+    libaidenoiser \
     libancbase_fd \
     libarcsoft_distortion_correction \
     libarcsoft_low_light_shot \
@@ -3301,6 +3302,8 @@ PRODUCT_PACKAGES += \
     libopencv \
     libopestriping \
     libremosaic_wrapper \
+    libremosaiclib \
+    librmsclib1 \
     libswregistrationalgo \
     libtfestriping \
     libvidhance \
